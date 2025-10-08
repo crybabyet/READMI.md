@@ -68,6 +68,3 @@ Bilingue: Português 🇧🇷 & English 🇺🇸
 - Evoluir no inglês técnico e comunicação internacional
 
 ---
-
-Se quiser, posso montar esse README **exatamente** com seus repositórios reais, nomes e descrições, já pronto para uso. Você me manda os nomes e links dos seus repositórios principais?
-::contentReference[oaicite:0]{index=0}
